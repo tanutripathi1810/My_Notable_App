@@ -33,9 +33,11 @@ Follow these steps to get a local copy up and running.
 
 ### Clone the Repository
 
-
+```
 git clone https://github.com/tanutripathi1810/My_Notable_App.git
+
 cd My_Notable_App
+```
 
 
 ### Install Dependencies
