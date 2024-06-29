@@ -2,6 +2,10 @@
 
 My Notable App is a simple, elegant, and intuitive note-taking application built with React. It allows users to create, search, and manage their notes efficiently.
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/tanutripathi1810/My_Notable_App/blob/main/Screenshot%202024-06-29%20014015.png)
+
+
+
 ## Table of Contents
 
 - [Features](#features)
